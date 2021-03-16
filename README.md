@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @mjmolnar
 - Mike Molnar, consultant, Skedzy
+- Canton, OH, US
 - https://skedzy.com
 
 <!---
